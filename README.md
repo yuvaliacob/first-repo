@@ -26,6 +26,11 @@ This first repo in the Coriander space will be about learning Github and Markdow
 ## Code
 
 ### Code line
-This is a `line` of code
+This is a `line` of code `name=Yuval`
 
+### Block code
+```js
+let cohort = "Coriander"
+let students = 17 
+```
 
