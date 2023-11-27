@@ -22,3 +22,10 @@ This first repo in the Coriander space will be about learning Github and Markdow
 
 ### Uploaded image
 ![Alieny picture](./underwater-magic-world-8tyxt9yz.jpeg)
+
+## Code
+
+### Code line
+This is a `line` of code
+
+
