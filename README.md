@@ -17,12 +17,6 @@ This first repo in the Coriander space will be about learning Github and Markdow
 - Another item
 - Also an item
 
-### Linked image
-![This is a picture](https://deep-image.ai/blog/content/images/size/w1600/2022/09/a-beautiful-nebula-in-outer-space-kayptz4d.jpeg)
-
-### Uploaded image
-![Alieny picture](./underwater-magic-world-8tyxt9yz.jpeg)
-
 ## Code
 
 ### Code line
@@ -34,3 +28,8 @@ let cohort = "Coriander"
 let students = 17 
 ```
 
+### Linked image
+![This is a picture](https://deep-image.ai/blog/content/images/size/w1600/2022/09/a-beautiful-nebula-in-outer-space-kayptz4d.jpeg)
+
+### Uploaded image
+![Alieny picture](./underwater-magic-world-8tyxt9yz.jpeg)
