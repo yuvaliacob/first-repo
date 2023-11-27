@@ -16,3 +16,5 @@ This first repo in the Coriander space will be about learning Github and Markdow
 - An item
 - Another item
 - Also an item
+
+![This is a picture](https://deep-image.ai/blog/content/images/size/w1600/2022/09/a-beautiful-nebula-in-outer-space-kayptz4d.jpeg)
